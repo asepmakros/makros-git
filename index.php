@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>belajar git makros</h1>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, nobis distinctio repellendus, numquam quidem iusto error consequatur quae ut expedita autem quod blanditiis corporis accusantium sit aliquid voluptatibus pariatur quos.</p>
 </body>
 </html>
